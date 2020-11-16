@@ -57,5 +57,4 @@ describe('#Shop', () => {
     expect(shop.checkout("18")).toBe(-1)
   })
 
-
 }) 
